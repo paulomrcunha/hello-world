@@ -1,4 +1,2 @@
-# hello-world
-Hello World project learning GitHub
-
-GitHub, I like Node.js and Coffeescript (that's what I'made of!).
+# Learning Principles of Object Oriented Programming in JavaScript
+Hello World, let's learn the principles of Object Oriented programming in JavaScript.
