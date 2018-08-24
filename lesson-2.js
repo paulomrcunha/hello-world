@@ -8,16 +8,5 @@ function createCircle(radius) {
     }
   };
 }
-const circleTwo = createCircle(1);
-circleTwo.draw();
-
-
-// Constructor Function
-function Circle(radius) {
-  // console.log('this', this);
-  this.radius = radius;
-  this.draw = function () {
-    console.log('draw');
-  }
-}
-const circleThree = new Circle(1);
+const circle = createCircle(1);
+circle.draw();
