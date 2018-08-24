@@ -1,5 +1,5 @@
 // Create a Object
-const circleOne = {
+const circle = {
   radius: 1,
   location: {
     x: 1,
@@ -11,4 +11,4 @@ const circleOne = {
   }
 };
 
-circleOne.draw();
+circle.draw();
