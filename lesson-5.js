@@ -16,6 +16,9 @@ function Circle(radius) {
     // Get is especial keyword for JavaScript
     get: function () {
       return defaultLocation;
+    },
+    set: function () {
+      // 
     }
   });
 }
